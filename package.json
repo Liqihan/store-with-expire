@@ -1,0 +1,27 @@
+{
+  "name": "store-with-expire",
+  "version": "1.0.0",
+  "description": "带expire的store.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Liqihan/store-with-expire.git"
+  },
+  "keywords": [
+    "expire",
+    "store.js"
+  ],
+  "author": "grove.liqihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liqihan/store-with-expire/issues"
+  },
+  "homepage": "https://github.com/Liqihan/store-with-expire#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "store": "^2.0.4"
+  }
+}
